@@ -26,10 +26,15 @@ namespace PojectOrderingFod.Models
         public string Adres { get; set; }
 
         [Required(ErrorMessage = "Pole wymagane")]
+        public string City { get; set; }
+
+        [Required(ErrorMessage = "Pole wymagane")]
         public string PoctCode { get; set; }
 
         [Required(ErrorMessage = "Pole wymagane")]
         public string Password { get; set; }
 
+        [Required(ErrorMessage = "Pole wymagane")]
+        public string RepeatPassword { get; set; }
     }
 }
