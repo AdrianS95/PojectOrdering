@@ -1,0 +1,11 @@
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\bin\Debug\netcoreapp2.0\PojectOrderingFod.deps.json
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\bin\Debug\netcoreapp2.0\PojectOrderingFod.runtimeconfig.json
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\bin\Debug\netcoreapp2.0\PojectOrderingFod.runtimeconfig.dev.json
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\bin\Debug\netcoreapp2.0\PojectOrderingFod.dll
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\obj\Debug\netcoreapp2.0\PojectOrderingFod.csprojResolveAssemblyReference.cache
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\obj\Debug\netcoreapp2.0\PojectOrderingFod.csproj.CoreCompileInputs.cache
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\obj\Debug\netcoreapp2.0\PojectOrderingFod.AssemblyInfoInputs.cache
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\obj\Debug\netcoreapp2.0\PojectOrderingFod.AssemblyInfo.cs
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\bin\Debug\netcoreapp2.0\PojectOrderingFod.pdb
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\obj\Debug\netcoreapp2.0\PojectOrderingFod.dll
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\PojectOrderingFod\PojectOrderingFod\obj\Debug\netcoreapp2.0\PojectOrderingFod.pdb
