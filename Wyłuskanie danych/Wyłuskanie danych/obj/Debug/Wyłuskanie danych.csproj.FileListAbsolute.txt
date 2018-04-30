@@ -1,0 +1,11 @@
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\Wyłuskanie danych.exe.config
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\Wyłuskanie danych.exe
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\Wyłuskanie danych.pdb
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\HtmlAgilityPack.dll
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\HtmlAgilityPack.pdb
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\HtmlAgilityPack.xml
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.csprojResolveAssemblyReference.cache
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.csproj.CoreCompileInputs.cache
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.csproj.CopyComplete
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.exe
+d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.pdb

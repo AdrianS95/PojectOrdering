@@ -1,0 +1,34 @@
+﻿@model IEnumerable<ReadSite>
+@{
+    ViewData["Title"] = "ListOfRestaurant";
+}
+
+<h2>ListOfRestaurant</h2>
+
+@functions {
+static IEnumerable<IEnumerable<T>> Split<T>(IEnumerable<T> collection, int columns)
+{
+    for (int i = 0; i < (double)collection.Count() / 2; i++)
+    {
+        yield return collection.Skip(i * columns).Take(columns);
+    }
+
+}
+}
+<div class="container">
+
+    @foreach (var row in Split(Model, 2))
+    {
+        <div class="row">
+            @foreach (var item in row)
+            {
+                <div class="col-sm-12 col-md-6">
+                    <h4>@item.Title;</h4>
+                    <p>@item.PubData;</p>
+                    <p>@Html.Raw(@item.Descryption);</p>
+                </div>
+            }
+
+        </div>
+    }
+</div>
