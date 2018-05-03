@@ -9,3 +9,14 @@ d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuska
 d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.csproj.CopyComplete
 d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.exe
 d:\użytkownik\dokumenty\visual studio 2017\Projects\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.pdb
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\Wyłuskanie danych.exe.config
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\Wyłuskanie danych.exe
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\Wyłuskanie danych.pdb
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\HtmlAgilityPack.dll
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\HtmlAgilityPack.pdb
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\bin\Debug\HtmlAgilityPack.xml
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.csprojResolveAssemblyReference.cache
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.csproj.CoreCompileInputs.cache
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.csproj.CopyComplete
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.exe
+E:\Użytkownik\Dokumenty\GitHub\PojectOrderingFod\Wyłuskanie danych\Wyłuskanie danych\obj\Debug\Wyłuskanie danych.pdb
